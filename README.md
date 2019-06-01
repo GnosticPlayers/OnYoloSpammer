@@ -5,7 +5,7 @@
 
 __DISCLAIMER__: This project should be used for authorized testing and educational purposes only.
 
-# GTP Smash
+# OnYoloSpammer
 A OnYolo spamming application written in Python3.
 
 ## Requirements
